@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 7\TUT 7\Main.cpp(139,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 7\TUT 7\Main.cpp(122,51): warning C4101: 'penny': unreferenced local variable
+  TUT 7.vcxproj -> C:\Users\hanza\OneDrive\Documents\Semester 2\Intro To Prog\TUT 7\TUT 7\Debug\TUT 7.exe
